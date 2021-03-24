@@ -59,6 +59,6 @@ def fib2():
 		fibonacci2(i)
 
 
-# fib_std();
-fib_mem()
+# fib_std()
+# fib_mem()
 # fib2()
